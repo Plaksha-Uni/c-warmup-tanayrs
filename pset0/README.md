@@ -1,4 +1,4 @@
-## FoCS Problem Set 0: C++ Warmup
+# FoCS Problem Set 0: C++ Warmup
 =================================
 
 The goal of this ungraded problem set is to introduce you to course infrastructure, and to warm up your skills in the programming language we use, C++, and the kinds of programs we’ll write. The programming is not intended to be difficult, but don’t settle for sloppy results. The course aims to teach you robust, secure, and understandable coding, as well as fast and correct coding.
